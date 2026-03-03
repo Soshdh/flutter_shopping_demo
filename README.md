@@ -56,8 +56,9 @@ icons/
    ```bash
    git clone https://github.com/Soshdh/flutter_shopping_demo.git
 
-   cd flutter_shopping_demo
-   flutter run
+  cd flutter_shopping_demo
+  
+  flutter run
 
 ---
 
